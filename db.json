@@ -1,0 +1,106 @@
+{
+  "users": [
+    {
+      "fullName": "pilu",
+      "email": "pilu@gmail.com",
+      "password": "iampilu",
+      "id": 1
+    },
+    {
+      "fullName": "testcase",
+      "email": "testcase@gmail.com",
+      "password": "testcase1",
+      "id": 2
+    },
+    {
+      "fullName": "testcase",
+      "email": "testcase@gmail.com",
+      "password": "testcase1",
+      "id": 3
+    },
+    {
+      "fullName": "myname",
+      "email": "myname@gmail.com",
+      "password": "myname",
+      "id": 4
+    },
+    {
+      "fullName": "myname",
+      "email": "myname@gmail.com",
+      "password": "myname",
+      "id": 5
+    },
+    {
+      "fullName": "mytestcase",
+      "email": "mytestcase@gmail.com",
+      "password": "mytestcase",
+      "id": 6
+    },
+    {
+      "fullName": "thisisme",
+      "email": "maxmartin@gmail.com",
+      "password": "this",
+      "id": 7
+    },
+    {
+      "fullName": "new",
+      "email": "new@gmail.com",
+      "password": "new",
+      "id": 8
+    },
+    {
+      "fullName": "newnew",
+      "email": "newnew@gmail.com",
+      "password": "new",
+      "id": 9
+    },
+    {
+      "fullName": "asdf",
+      "email": "asdf@gmail.com",
+      "password": "asdf",
+      "id": 10
+    },
+    {
+      "fullName": "qwe",
+      "email": "qwe@gmail.com",
+      "password": "qwe",
+      "id": 11
+    },
+    {
+      "fullName": "rashh",
+      "email": "mymail@mail.com",
+      "password": "lollol",
+      "id": 12
+    },
+    {
+      "fullName": "rashh",
+      "email": "mymail@mail.com",
+      "password": "lollol",
+      "id": 13
+    },
+    {
+      "fullName": "rasssh",
+      "email": "hs@gmail.com",
+      "password": "lollol",
+      "id": 14
+    },
+    {
+      "fullName": "sunflower",
+      "email": "flower@mail.com",
+      "password": "lollol",
+      "id": 15
+    },
+    {
+      "fullName": "sunflower",
+      "email": "flower@mail.com",
+      "password": "lollol",
+      "id": 16
+    },
+    {
+      "fullName": "rose",
+      "email": "rose@mail.com",
+      "password": "lollol",
+      "id": 17
+    }
+  ]
+}

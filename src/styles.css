@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+@import "primeicons/primeicons.css";
+
+html,body{
+    height:100%;
+    margin:0;
+    background: radial-gradient( rgb(167, 240, 255), rgb(255, 182, 255));
+    
+}
